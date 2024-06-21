@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jesus
+Build-Jdk: 22.0.1
+Implementation-Title: tourigabackend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.touriga
+Implementation-URL: https://spring.io/projects/spring-boot/tourigabacken
+ d
+Created-By: Maven Integration for Eclipse
+
